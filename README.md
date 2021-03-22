@@ -1,16 +1,11 @@
-# Oftadeh React Admin
+# React Admin
 
-Oftadeh - React Admin Responsive Template is an React app written entirely with Javascript (reactjs & material-ui) and has no jQuery dependency.
+ React Admin Responsive Template is an React app written entirely with Javascript (reactjs & material-ui) and has no jQuery dependency.
 
-<br />
-
-To view a live demo, [click here](https://oftadeh-react-admin.netlify.com/).
-
-[![Oftadeh - React Admin](https://vitateach.com/wp-content/uploads/2020/04/oftadeh-react-admin.png)](https://youtu.be/PQRki51ixjg)
 
 ## React
 
-[React](https://reactjs.org/) is the core of our template. If you don't know what React is or don't know how to use it, we strongly recommend checking the React before start doing anything with Oftadeh.
+[React](https://reactjs.org/) is the core of our template. If you don't know what React is or don't know how to use it, we strongly recommend checking the React before start doing anything with me.
 
 ## Create React App (CLI)
 
@@ -18,7 +13,7 @@ To view a live demo, [click here](https://oftadeh-react-admin.netlify.com/).
 
 ## Table of Contents
 
-- [Oftadeh React Admin](#oftadeh-react-admin)
+- [React Admin](#react-admin)
   - [React](#react)
   - [Create React App (CLI)](#create-react-app-cli)
   - [Table of Contents](#table-of-contents)
@@ -51,7 +46,7 @@ This section will give you some information about what tools you will need.
 
 ### Node.js
 
-To install and use Oftadeh React, you will need [Node.js](https://nodejs.org/) installed to your computer. We won't get into too much detail about Node.js as it's out of the scope of this documentation. Also you won't need to actually use Node.js, it's only required for the development process.
+To install and use React, you will need [Node.js](https://nodejs.org/) installed to your computer. We won't get into too much detail about Node.js as it's out of the scope of this documentation. Also you won't need to actually use Node.js, it's only required for the development process.
 
 ## Installation
 
@@ -59,7 +54,7 @@ To install and use Oftadeh React, you will need [Node.js](https://nodejs.org/) i
 <br />
 Download and install at least LTS or the latest version of [Node.js](https://nodejs.org/) from its web site.
 
-**B.Installing Oftadeh React**
+**B.Installing React**
 <br />
 Open your favorite console application (Terminal, Command Prompt etc.), navigate into your work folder, run the following command and wait for it to finish:
 <br />
@@ -70,7 +65,7 @@ Open your favorite console application (Terminal, Command Prompt etc.), navigate
 This command will install all the required Node.js modules into the node_modules directory inside your work folder.
 
 <br />
-And now, you are ready to run the Oftadeh React for the first time.
+And now, you are ready to run the React for the first time.
 
 ### Development
 
@@ -80,7 +75,7 @@ While still in your work folder, run the following command in the console applic
 `npm start`
 
 <br />
-And that's it. create-react-app will take care everything and start the Oftadeh React.
+And that's it. create-react-app will take care everything and start the React.
 
 <br />
 You can check out your console application to get further information about the server. By default, it will run on [http://localhost:3000](http://localhost:3000) but it might change depending on your setup
@@ -105,11 +100,9 @@ Checkout at Facebook's create-react-app documentation:[Deployment](https://faceb
 
 ## Project Structure
 
-Here’s the project structure of the Oftadeh React:
+Here’s the project structure of the React:
 
 <br />
-
-![Oftadeh - React Admin](https://vitateach.com/wp-content/uploads/2020/04/project-structure-oftadeh.png)
 
 ## Sources and Credits
 
@@ -196,10 +189,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-## License
-
-Completely free (MIT)! See [LICENSE.md](https://github.com/mohammadoftadeh/oftadeh-react-admin/blob/master/LICENSE) for more.
-
-## Donate
-
-You can donate to us. [link for donate](https://paypal.me/MohammadOftadeh?locale.x=en_US)
